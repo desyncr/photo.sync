@@ -15,6 +15,8 @@ This tool is currently developed and tested  only in Linux systems (hence this w
 
 There isn't an installer (yet) or a fancy tool that does the work for you. So if you want to try this tool clone the repo and `./sync.pl --help`.
 
+`asphyxia@bt:~/projects/photo.sync$ ./sync.pl --socket=flickr --url=http://www.flickr.com/photos/example/sets/123456/ --destination=/home/asphyxia/downloads/images/albums/``
+
 ## Contact and Feedback
 
 If you'd like to contribute to Photo.sync or file a bug or feature request, please visit [its page on GitHub][1].
