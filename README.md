@@ -22,7 +22,8 @@ If you'd like to contribute to Photo.sync or file a bug or feature request, plea
 
 ## License
 
-Photo.sync is licensed under the [GNU GPL v3][2]; that means you're allowed to copy, edit, change, hack, use all or any part of this project as you please *as long* as all parts of the project remains in the *public domain*.
+Photo.sync is licensed under the [GNU GPL v3][2]([tldr][3]); that means you're allowed to copy, edit, change, hack, use all or any part of this project as you please *as long* as all parts of the project remains in the *public domain*.
 
   [1]: https://github.com/asphxia/photo.sync
   [2]: http://www.gnu.org/licenses/gpl.html
+  [3]: http://www.tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
